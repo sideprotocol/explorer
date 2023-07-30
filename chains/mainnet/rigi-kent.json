@@ -5,7 +5,7 @@
     "rpc": [ "https://kent-rpc.side.exchange" ],
     "snapshot_provider": "",
     "coin_type": "118",
-    "sdk_version": "0.46.8",
+    "sdk_version": "0.47.8",
     "addr_prefix": "kent",
     "logo": "https://side.one/favicon.ico",
     "assets": [
